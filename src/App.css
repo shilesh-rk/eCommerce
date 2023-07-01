@@ -1,0 +1,17 @@
+/* =====NavBar===== */
+
+
+
+/* =======body======= */
+
+hr{
+    border: 5px solid #54b4D3;
+}
+.card1:hover{
+    transform: scale(1.009);
+    box-shadow: #54b4D3 0px -50px 36px -20px inset;
+}
+
+.card-img-top:hover{
+  transform: scale(1.05);
+}
